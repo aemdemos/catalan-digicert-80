@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--catalan-digicert-80--aemdemos.hlx.live/
-- After: https://<branch>--catalan-digicert-80--aemdemos.hlx.live/
+- Before: https://main--catalan-digicert-80--aemdemos.aem.live/
+- After: https://<branch>--catalan-digicert-80--aemdemos.aem.live/

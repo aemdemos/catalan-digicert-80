@@ -2,8 +2,8 @@
 This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
-- Preview: https://main--catalan-digicert-80--aemdemos.hlx.page/
-- Live: https://main--catalan-digicert-80--aemdemos.hlx.live/
+- Preview: https://main--catalan-digicert-80--aemdemos.aem.page/
+- Live: https://main--catalan-digicert-80--aemdemos.aem.live/
 
 ## Installation
 
