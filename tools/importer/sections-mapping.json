@@ -1,0 +1,249 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [
+          {
+            "id": "box-id-903010241",
+            "x": 0,
+            "y": 0,
+            "width": 1581,
+            "height": 80,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/header[1]/div[1]",
+                "xpathWithDetails": "id(\"container-548cee39e4\")/div[@class=\"header-v3 fixed\"]/div[@class=\"site_logo\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/header[1]/div[2]",
+                "xpathWithDetails": "id(\"container-548cee39e4\")/div[@class=\"header-v3 fixed\"]/div[@class=\"primary__navigation\"]"
+              }
+            ],
+            "color": "rgb(148, 0, 211)",
+            "mapping": "header",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/index",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id--517246",
+            "x": 0,
+            "y": 100,
+            "width": 1581,
+            "height": 70,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": "center,dark-blue"
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-2",
+        "blocks": [
+          {
+            "id": "box-id--517184",
+            "x": 175,
+            "y": 145,
+            "width": 1230,
+            "height": 664,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"pencil-banner-active\")/div[@class=\"custom-carousel carousel panelcontainer\"]/div[@class=\"cmp-carousel\"]/div[@class=\"cmp-carousel__content\"]/div[@class=\"cmp-carousel__item cmp-carousel__item--active\"]/div[@class=\"heroimage cmp-image vspacebtncomp-heroimage\"]/div[@class=\"grid-12\"]/div[@class=\"descriptionBox left default\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "id(\"pencil-banner-active\")/div[@class=\"custom-carousel carousel panelcontainer\"]/div[@class=\"cmp-carousel\"]/div[@class=\"cmp-carousel__content\"]/div[@class=\"cmp-carousel__actions navType-default center\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.4)",
+            "mapping": "carousel",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--517091",
+            "x": 175,
+            "y": 849,
+            "width": 1230,
+            "height": 151,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--107017495",
+            "x": 175,
+            "y": 993,
+            "width": 1230,
+            "height": 49,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--107017464",
+            "x": 175,
+            "y": 1082,
+            "width": 1230,
+            "height": 865,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"container-8502e7ea9b\")/div[@class=\"product\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"container-8502e7ea9b\")/div[@class=\"product\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"container-8502e7ea9b\")/div[@class=\"product\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id--698436576",
+            "x": 175,
+            "y": 6365,
+            "width": 230,
+            "height": 518,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+                "xpathWithDetails": "id(\"aboutus-text\")/li[@class=\"aboutus-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+                "xpathWithDetails": "id(\"digicert-seal\")"
+              }
+            ],
+            "color": "rgba(0, 0, 255, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--698436545",
+            "x": 468,
+            "y": 6369,
+            "width": 937,
+            "height": 514,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[2]",
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[2]/li[1]",
+                "xpathWithDetails": "id(\"footer-menu\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[2]/li[2]",
+                "xpathWithDetails": "id(\"footer-menu\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[2]/li[3]",
+                "xpathWithDetails": "id(\"footer-menu\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[2]/li[4]",
+                "xpathWithDetails": "id(\"footer-menu\")"
+              }
+            ],
+            "color": "rgba(0, 0, 255, 0.4)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {
+          "section-metadata-style": "columns-1-4"
+        }
+      },
+      {
+        "id": "3-2",
+        "blocks": [
+          {
+            "id": "box-id--698436483",
+            "x": 175,
+            "y": 6924,
+            "width": 1230,
+            "height": 55,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[4]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(0, 0, 255, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
